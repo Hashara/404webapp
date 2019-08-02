@@ -1,0 +1,10 @@
+.login-btn{
+  background-color: #95baf5;
+}
+.login-btn:hover{
+  background-color: #08295e;
+  color: #fff;
+}
+.modal-header{
+  background-color: #95baf5;
+}

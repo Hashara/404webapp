@@ -1,15 +1,17 @@
 admin login->
-
   admin page->
-      sign in admin for the system
+      sign in new admins for the system
+
       sign in teachers for the System
 
 
-      teachers  ->
-        location
-        send msg (individual or group)
-        progress
-        attendance
+      all teachers page ->
+                    send msg (individual or group)
+                    teacher->
+                        details
+                        location
+                        progress
+                        attendance
 
 
       All classes page->
