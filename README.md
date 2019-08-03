@@ -21,3 +21,14 @@ admin login->
                           student details -> add , edit
                           progress
                           attendance
+
+
+
+
+
+
+theme color codes
+ black      #oooo
+ dark blue  #0c0c42
+ light blue #23237d
+ ash        #a2a2a6
