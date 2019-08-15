@@ -1,0 +1,229 @@
+body{
+    font-family: "Trebuchet MS";
+}
+
+.body_main{
+    background-image: url(Images/wallpaper.jpg);
+    background-position: bottom;
+    background-size: 100% 95%;
+}
+
+.body2{
+    background-image: : url(Images/forgotpassword.jpg);
+    background-position: bottom;
+    background-size: 100% 95%;
+}
+
+.table_top{
+    background-color: white;
+    font-family: "Trebuchet MS";
+    color: black;
+    border-radius: 5px;
+}
+
+.button{
+    background-color: white;
+    cursor: pointer;
+    font-family: "Trebuchet MS";
+    color:midnightblue;
+    font-weight: 400;
+    font-size:18px;
+    font-style: normal;
+    padding: 15px 32px;
+    border: none ;
+}
+
+.button:hover{
+    background-color: #81BDC5;
+    border-radius: 15px;
+}
+
+
+.hilight{
+    background-color: #81BDC5;
+    font-family: "Trebuchet MS";
+    color: darkblue;
+    font-weight: 400;
+    font-size:18px;
+    font-style: normal;
+    padding: 15px 32px;
+    border: none ;
+    border-radius: 15px;
+    
+}
+
+.box{
+    float:right;
+    opacity: 1.0;
+    margin-top: 100px;
+    margin-right: 60px;
+ }
+.box2{
+    float:right;
+    opacity: 0.8;
+    margin-top: 60px;
+    margin-right: 60px;
+ }
+
+ .box3{
+    float:left;
+    opacity: 1.0;
+    margin-top: 100px;
+    margin-right: 60px;
+ }
+
+.tb{
+    background-color:white;
+    border-radius: 15px;
+    color:black;
+}
+
+input{
+    border-color: cadetblue ;
+    border-style:solid;
+    border-radius: 5px;
+    font-style: italic;
+    padding:14px;
+    
+}
+
+input[type=submit]{
+    border:none;
+    border-radius: 4px;
+    cursor: pointer;
+    padding:14px;
+    width: 280px; 
+    background-color:darkblue;
+    color: white;
+    font-weight: bolder;
+    font-style: normal;
+}
+
+input[type=reset] {
+    border:none;
+    border-radius: 4px;
+    cursor: pointer;
+    padding:14px;
+    width: 280px;
+    background-color: red;
+    color:white;
+    font-weight: bolder;
+    font-style: normal;
+}
+
+input[type=submit]:hover,input[type=reset]:hover {
+    background-color:#81BDC5;
+}
+
+.signup{
+    float:right;
+    opacity: 0.6;
+    padding: 80px;
+    font-size-adjust: auto;
+}
+
+.vehicles{
+    border-radius: 15px;
+    background-color:white;
+    opacity: 0.85;
+    margin-top: 20px;
+    color:black;
+    text-align:center;
+}
+
+select{
+    position: relative;
+    background-color: white;
+    width: 360;
+    height: 45;
+    border-radius: 5px;
+    font-family:"Trebuchet MS";  
+}
+
+.button_admin{
+    background-color:#070e1c;
+    cursor: pointer;
+    font-family: "Trebuchet MS";
+    color:white;
+    font-weight: 400;
+    font-size:18px;
+    font-style: normal;
+    padding: 15px 32px;
+    border: none ;
+}
+
+.button_admin:hover{
+    background-color: #81BDC5;
+    border-radius: 15px;
+}
+
+.overview_cell{
+    background-color:cornflowerblue;
+    border-radius: 15px;
+    color:white;
+    margin-right: 20px;
+    border-spacing: 30px;
+}
+.vehicle_cell{
+    background-color: #070e1c;
+    border-radius: 15px;
+    color:white;
+    margin-right: 20px;
+}
+
+
+.add_vehicle{
+    background-color: #070e1c;
+    border-radius: 15px;
+    color:white;
+    margin-right: 20px;
+    border-spacing: 30px;
+}
+
+.vehicles_add{
+    border-radius: 15px;
+    background-color:white;
+    opacity: 0.85;
+    margin-top: 20px;
+    color:black;
+    text-align:center;
+}
+
+.admin_box{
+    float:right;
+    opacity: 0.8;
+    margin-top: 50px;
+    margin-right: 60px;
+ }
+
+.admin_box2{
+    float:left;
+    opacity: 0.8;
+    margin-top: 50px;
+    margin-left: 60px;
+ }
+
+.user_tb{
+    background-color:white;
+    border-radius: 15px;
+    color:black;
+    margin-left: 10px;
+    margin-top: 30px;
+}
+
+.tb_a{
+    background-color:white;
+    border-radius: 15px;
+    color:black;
+    opacity: 0.8;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: black;
+    text-align: center;
+}
+
+
